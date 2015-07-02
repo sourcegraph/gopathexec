@@ -20,7 +20,7 @@ It will effectively execute:
 
 If you have 1 or no GOPATH workspaces, gopathexec executes the given program and arguments without modification.
 */
-package main
+package main // import "sourcegraph.com/sourcegraph/gopathexec"
 
 import (
 	"log"

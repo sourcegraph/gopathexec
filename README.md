@@ -1,4 +1,4 @@
-# gopathexec [![Build Status](https://travis-ci.org/shurcooL/gopathexec.svg?branch=master)](https://travis-ci.org/shurcooL/gopathexec) [![GoDoc](https://godoc.org/github.com/shurcooL/gopathexec?status.svg)](https://godoc.org/github.com/shurcooL/gopathexec)
+# gopathexec [![Build Status](https://travis-ci.org/sourcegraph/gopathexec.svg?branch=master)](https://travis-ci.org/sourcegraph/gopathexec) [![GoDoc](https://godoc.org/sourcegraph.com/sourcegraph/gopathexec?status.svg)](https://godoc.org/sourcegraph.com/sourcegraph/gopathexec)
 
 Command gopathexec executes program with arguments, while expanding $GOPATH with multiple workspaces into multiple arguments.
 
@@ -25,7 +25,7 @@ Installation
 ------------
 
 ```bash
-go get -u github.com/shurcooL/gopathexec
+go get -u sourcegraph.com/sourcegraph/gopathexec
 ```
 
 License
